@@ -1,0 +1,118 @@
+###
+POST http://localhost:3000/articles HTTP/1.1
+content-type: application/json
+
+{
+    "title": "5 Manfaat Menakjubkan Cengkeh untuk Kesehatan", 
+    "tags": "cengkeh", 
+    "body": "Cengkeh adalah rempah serbaguna dengan rasa manis dan aroma harum yang khas. Cengkeh biasanya digunakan sebagai bumbu rendaman untuk panggangan, menambah rasa pada minuman hangat, hingga untuk memperkuat aroma kue. Namun ternyata, kandungan nutrisi dalam cengkeh juga bermanfaat untuk kesehatan tubuh. Apa saja manfaat cengkeh yang bisa Anda dapatkan? <br> 1. Melindungi dari kanker. <br> 2. Membunuh bakteri penyebab penyakit <br> 3. Menjaga kesehatan tulang <br> 4. Mengobati sakit maag. <br> 5. Mengendalikan kadar gula darah",
+    "image":"https://cdn.hellosehat.com/wp-content/uploads/2018/04/Serba-Serbi-Manfaat-Cengkeh-Untuk-Kesehatan.jpg"
+}
+
+
+###
+GET http://localhost:3000/articles HTTP/1.1
+
+###
+GET http://localhost:3000/articles/id/2 HTTP/1.1
+
+
+###
+GET http://localhost:3000/articles/tags/a HTTP/1.1
+
+
+
+
+###
+PUT http://localhost:3000/articles/zFv47rI3sbPDPm_x HTTP/1.1
+content-type: application/json
+
+
+{
+    "title": "5 Manfaat Menakjubkan Cengkeh untuk Kesehatan", 
+    "tags": "cengkeh", 
+    "body": "Cengkeh adalah rempah serbaguna dengan rasa manis dan aroma harum yang khas. Cengkeh biasanya digunakan sebagai bumbu rendaman untuk panggangan, menambah rasa pada minuman hangat, hingga untuk memperkuat aroma kue. Namun ternyata, kandungan nutrisi dalam cengkeh juga bermanfaat untuk kesehatan tubuh. Apa saja manfaat cengkeh yang bisa Anda dapatkan? <br> 1. Melindungi dari kanker. <br> 2. Membunuh bakteri penyebab penyakit <br> 3. Menjaga kesehatan tulang <br> 4. Mengobati sakit maag. <br> 5. Mengendalikan kadar gula darah",
+    "image":"https://cdn.hellosehat.com/wp-content/uploads/2018/04/Serba-Serbi-Manfaat-Cengkeh-Untuk-Kesehatan.jpg"
+}
+
+
+
+###
+DELETE  http://localhost:3000/articles/ADR28HHiKlRoS7PK HTTP/1.1
+
+
+
+
+
+
+
+###
+POST http://localhost:3000/signup HTTP/1.1
+content-type: application/json
+
+{
+    "email": "user1@gmail.Com",
+    "name": "users1",
+    "password": "1234556" 
+
+} 
+
+
+###
+
+GET http://localhost:3000/login HTTP/1.1
+content-type: application/json
+
+{
+    "email": "user1@gmail.Com",
+    "password": "1234556" 
+
+} 
+
+
+
+
+
+
+
+
+
+###
+
+{
+    "title": "Manfaat Makan Bawang Putih Mentah", 
+    "tags": "bawang-putih", 
+    "body": "Bawang putih termasuk dalam genus Allium dan sering digunakan dalam masakan. Selain itu, bawang putih juga mengandung sejumlah manfaat untuk kesehatan, terutama jika dikonsumsi mentah. 
+    Bawang putih mentah akan menimbulkan aroma yang khas dan rasanya cukup pedas getir. Merujuk buku For the Love of Garlic: The Complete Guide to Garlic Cuisine, komponen allicin ditemukan dalam bawang putih mentah. Senyawa ini diproduksi setelah bawang putih dicincang atau dihaluskan. 
+    Allicin memiliki efek antimikroba yang baik untuk pencernaan makanan dan kesehatan manusia. Bawang putih mentah juga merupakan antibiotik yang mampu melawan infeksi jamur dengan efek antibakteri dan antivirus.",
+    "image":"https://cdn1.katadata.co.id/media/images/thumb/2022/03/01/Bawang_putih-2022_03_01-10_19_34_b3c562418359f8d903dc02e55c9c7d2d_620x413_thumb.jpg"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

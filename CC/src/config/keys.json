@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "buma-app",
+  "private_key_id": "c28ba306ce0e6ea7f4f13919691128f724383a6c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsBipU5GhpuVGG\n3ywp1xC9RInn3FX+mIa7+jRLEi50Mi8cWAY+DEpJWmW5LghD4qt1g/lHGsEbXsYl\nSqNpV6/FXLgpT2/QSJKi+MFKTMERT47lu399seSHUHJ2rwYzTMSlyGrtRTkO12U4\nRTB1DlRLryMvKXDLjuXIVzz7zVcXJfD9zs/TPFKYXeNSsl55AkSfKPOa/4Yd6Vjw\n5JCLaTE8RC5ld6kdV+3TQeeKOxHYAqeI4u4AIX3HXxxFktpB+LMyv5GR46N8Xd+m\nnODVzgHxxfO/fapX5BGfsQk4x9WJ8ZUA+lpYty/GBetWnfq0flttvpe8lHEGlPNg\n7Y/GRdabAgMBAAECggEAETM78qlfOp78egYA25106i/Fst4S58t8FqSRq6XsPihc\nZzLyoNada5CIgPJg14TSYa7UncRHkFiIFbzM8mCsTbQTzTxI8Pmoq8yVQGbEm9n+\nxEAHTdvxKTR6gB0c+255b8gbz5CZ1WmPuzIegmhwi5wTN7PRjZDtWdGbN+QpXpd9\ntazg2r8kLyDL4RteHgReSaS35KmVnyjGubkkIlRHalFY1mpJfuj5jqxe3Tzimjhn\nlsj29un0zJBd+p3HYiXCMOvlrkWNYgboewFUBHetSwzBVGadPfl0l0wQNvvXcQlA\nH7jbNfVeY7tytUaKtmy0Lcns/kPkuFqbzDnaFHZxLQKBgQDfpqEHKFUPaRskMYoj\n9QTFgHo3uuScCudMzqIl/OplflGKKiy/P3yog82uzK9wiPZkxnfi6On6SCJlEfP9\nmEjL9MYS4UGDbIretnIbLCgjl6VFrdmLOFQtyw+Vjx3smfmo91+o8pkgvDHHlrp+\nW6nlaky1Tw3hq8/JqPA+gjsqVwKBgQDE5+SSLVrgrEhaORokhNFVFU5kn681Vyhx\nGknYNL36MF8cl/EbvAuNancVyL94yseP8SqSqihflKBcbGampiO1/bMFOU6OA1MN\nXWf073CufG05O5TwPUV4nTo/yU5LRiLqZCmaWZzjsIVr/SYndkot1lt87+jucnpA\nn/8aQpUTXQKBgDD5XQOjOlUgj/fx/Sz4h230P08a1tqwrIuuJ+Wnp3BII/TcXWYX\nseV4zz56xeQfqczRhQkkNbA/wYBeWQ5sHWzEEeeqed0clKBGVWBL4BJDL8a9Vgjd\ncdmBQM1gRI49/WSZntHxJcT8UO5CvF3VFrQM/fUp9YE4TUz8eHdHr0sLAoGAdrLf\n/CqxNO1GdHUlyEv0sRi1+Dy27y3KaFwTle09dNvCCkeiBjkWsbozbYNlwVhkcuZL\n5rwCuJOtE+oY+2796hC04XpJW5yvbUgYifPpdpX1deHwB963yVzmp1sgAoqWM7wL\nxEsvI6be11l0radGUll9L1Skk1GZVunca6UlntUCgYEAmAixajiiIBlRjjWqMeBL\nCcR+KP2m0mC5IF8vD0nC0M/webu9fOk4bFfFaLyOkseFsGQX1SfTNQyl0CRvFKQf\nQe578dGOCXepoW3kSYVrWOd0C6xvAgKZoTmZcQ4dmvZ30gr9ZZNTibhmMQaZdlxV\n+i7X7NQ5FQWX6tCFBML0+MU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucket-buma@buma-app.iam.gserviceaccount.com",
+  "client_id": "103358374381906553645",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket-buma%40buma-app.iam.gserviceaccount.com"
+}

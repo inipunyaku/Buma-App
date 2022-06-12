@@ -1,18 +1,18 @@
-*BANGKIT CAPSTONE PROJECT*
-
+**BANGKIT CAPSTONE PROJECT**
+<br><br>
 
 Team : C22-PC387
 
+
 Project Name: BuMa  (Your kitchen assistant)
-
-
+<br><br>
 
 Project Team Members:
 
-(ML) M2135J1633- Muh. Fathurrahman Haidir- Politeknik Negeri Ujung Pandang
+- (ML) M2135J1633- Muh. Fathurrahman Haidir- Politeknik Negeri Ujung Pandang
 
-(ML) M2227F2094- Kumala Cantika Ainun Maya- Universitas Jember
+- (ML) M2227F2094- Kumala Cantika Ainun Maya- Universitas Jember
 
-(MD) A7009G0918- Ichsan Ustaf Putra- Universitas Gunadarma
+- (MD) A7009G0918- Ichsan Ustaf Putra- Universitas Gunadarma
 
-(CC) C2222W2013 - Muhammad Farhan Fadila Umam  - Universitas Islam Negeri Sunan Gunung Djati
+- (CC) C2222W2013 - Muhammad Farhan Fadila Umam  - Universitas Islam Negeri Sunan Gunung Djati

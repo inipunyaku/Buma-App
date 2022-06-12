@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--bagian luar atau border-->
+    <stroke
+        android:width="2dp"
+        android:color="@color/white" />
+
+    <!--bagian dalam-->
+    <solid android:color="@color/orange" />
+
+    <!--bagian border untuk lengkung-->
+    <corners android:radius="50dp" />
+
+</shape>

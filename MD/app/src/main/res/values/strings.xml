@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BUMA</string>
+    <string name="gambarbumbu">gambarbumbu</string>
+    <string name="BUMA" translatable="false">BUMA</string>
+    <string name="herbs">BUMBU</string>
+    <string name="language">Bahasa</string>
+    <string name="exit">Keluar</string>
+    <string name="gallery" translatable="false">Gallery</string>
+    <string name="upload" translatable="false">Predict</string>
+    <string name="email_statement">Email tidak Valid</string>
+    <string name="password_statement">Password tidak Valid</string>
+    <string name="camera" translatable="false">Camera</string>
+    <string name="about_us">Latar Belakang</string>
+    <string name="maker">Pencipta Aplikasi ini terdiri dari\n(ML) M2135J1633- Muh. Fathurrahman Haidir- Politeknik Negeri Ujung Pandang \n(ML) M2227F2094- Kumala Cantika Ainun Maya- Universitas Jember\n(MD) A7009G0918- Ichsan Ustaf Putra- Universitas Gunadarma\n(CC) C2222W2013 - Muhammad Farhan Fadila Umam  - Universitas Islam Negeri Sunan Gunung Djati</string>
+    <string name="scope">● Menciptakan Aplikasi yang disebut BuMa untuk mengenali bumbu atau bumbu masakan indonesia\n● Sasaran utama dari aplikasi ini adalah untuk mendidik audiens yang lebih muda yang kurang memiliki pengetahuan tentang bumbu/bumbu\n● Aplikasi ini akan memberikan informasi singkat tentang bumbu-bumbu.\n● Pada bagian yang dikembangkan, aplikasi ini diharapkan dapat mengenali 5 bumbu yang berbeda\n</string>
+    <string name="background">Latar belakang kami memilih topik ini karena banyak masyarakat di Indonesia yang masih bingung tentang perbedaan bumbu dapur yang ada di pasaran. Oleh karena itu, kami ingin membuatproduk yang dapat membantu untuk memudahkan dalam mengenali jenis-jenis bumbu dapur yang ada di pasaran.\n\nDan kami memiliki ruang lingkup dari aplikasi ini yaitu:</string>
+    <string name="input_data">Masukan Dulu Datamu</string>
+    <string name="welcome_login">Selamat Datang di Halaman Login</string>
+    <string name="welcome_signup">Selamat Datang di Halaman Register</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="confirmpassword" translatable="false">Confirm Password</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="_2022_capstone" translatable="false">© 2022 Capstone</string>
+    <string name="nama">Nama</string>
+    <string name="field">Lengkapi Data Dirimu Dibawah Ini</string>
+    <string name="daftar">Daftar</string>
+    <string name="select_to_predict">Pilih gambar untuk prediksi</string>
+    <string name="gotosignup">Belum punya akun?? Yuk Daftar</string>
+    <string name="gotologin">Sudah punya akun?? Login Sekarang</string>
+    <string name="warning">Isi Dahulu</string>
+    <string name="requiredpassword">Password tidak cocok</string>
+    <string name="nameofitem">Nama</string>
+    <string name="contentofitem" translatable="false">content</string>
+</resources>

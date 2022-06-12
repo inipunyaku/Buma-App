@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CapstoneProject</string>
+    <string name="gambarbumbu">HerbsPicture</string>
+    <string name="herbs">HERBS</string>
+    <string name="language">Language</string>
+    <string name="about_us">Background</string>
+    <string name="exit">EXIT</string>
+    <string name="email_statement">Email isn\'t Valid</string>
+    <string name="password_statement">Password isn\'t Valid</string>
+    <string name="scope">● Develop an App called “BuMa” to recognize spice or  seasoning in indonesia\n● The main target of the application is to educate younger audience that lacks of knowledge about seasoning/spice\n● This app will provide a short information about the spice.\n● At developed part, this app hoped to be able to recognize 5 different spice\n</string>
+    <string name="background">Our background for choosing this topic is because many people in Indonesia are still confused about the differences between kitchen spices on the market. Therefore, we want to create a product that can help to make it easier to recognize the types of kitchen spices on the market.\n\nAnd we have the scope of this application is :</string>
+    <string name="maker">The creator of this application is\n(ML) M2135J1633- Muh. Fathurrahman Haidir- Politeknik Negeri Ujung Pandang\n(ML) M2227F2094- Kumala Cantika Ainun Maya- Universitas Jember\n(MD) A7009G0918- Ichsan Ustaf Putra- Universitas Gunadarma\n(CC) C2222W2013 - Muhammad Farhan Fadila Umam  - Universitas Islam Negeri Sunan Gunung Djati</string>
+    <string name="input_data">Input Your Data First</string>
+    <string name="nama">Name</string>
+    <string name="field">Fill Your Data On Below</string>
+    <string name="daftar">Register</string>
+    <string name="select_to_predict">Select Image to Predict</string>
+    <string name="gotosignup">Not Register Yet?? Signup Now</string>
+    <string name="gotologin">Already have account?? Login Now</string>
+    <string name="warning">Fill It First</string>
+    <string name="requiredpassword">Password Isn\'t Matching</string>
+    <string name="welcome_login">Welcome to Login Page</string>
+    <string name="welcome_signup">Welcome to Signup Page</string>
+    <string name="nameofitem" translatable="false">Name</string>
+
+</resources>

@@ -1,5 +1,9 @@
+*BANGKIT CAPSTONE PROJECT*
+
+
 Team : C22-PC387
-Project Name: BuMa : Your kitchen assistant
+
+Project Name: BuMa  (Your kitchen assistant)
 
 
 
